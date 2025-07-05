@@ -1,1 +1,1 @@
-Javasript file
+ const name = new type(arguments);
